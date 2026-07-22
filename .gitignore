@@ -1,0 +1,13 @@
+*.swp
+*.swo
+bug
+bug_g
+bug_no_g
+my_lseek
+my_stat
+my_wc
+pipe_test
+shell
+signal_test
+signal_test2
+execvp_test
